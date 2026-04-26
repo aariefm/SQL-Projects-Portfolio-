@@ -1,5 +1,5 @@
 # SQL-Portfolio-Projects
-This repository provides a sample of my SQL & scrpting work used in data analysis:
+This repository provides a sample of my SQL & scrpting work used in data analysis. The SQL database was obtained from a sample SAP B1 database backup:
 
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
